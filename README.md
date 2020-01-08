@@ -2,7 +2,7 @@
 
 DotVVM is a ASP.NET framework that allows us to create web applications using the MVVM (Model-View-Viewmodel) design pattern with C# and HTML. In this code, you can find an example of implementing CRUD operations.
 
-## Main page Screenshot 
+## Main page screenshot 
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/ab3xe6zjvlu3998ndax2.jpg)
 
